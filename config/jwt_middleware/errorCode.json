@@ -1,0 +1,10 @@
+{
+	"unsupported_auth_token" : "09L18",
+	"header_no_token": "LK12J",
+	"token_expired": "LQI819",
+	"order_not_found": "LCKQBA",
+	"failed_update_snaptoken": "PKJ8QI",
+	"no_cart_available": "0987YS",
+	"update_cart_failed": "89GKW2",
+	"cannot_create_order": "1GLJBS"
+}
